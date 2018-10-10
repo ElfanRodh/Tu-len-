@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/elfar/APK/Awesome/MaterialViewPager/materialviewpager/src/main/assets"/><source path="/home/elfar/APK/Awesome/MaterialViewPager/materialviewpager/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/elfar/APK/Awesome/MaterialViewPager/materialviewpager/src/debug/assets"/></dataSet></merger>
