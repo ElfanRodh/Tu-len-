@@ -341,6 +341,21 @@
             ]
         },
         {
+            "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/debug/values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7847538fe361d97b20e7951747467930/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat",
             "map": [
                 {
@@ -647,38 +662,6 @@
             ]
         },
         {
-            "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/93a975f6579b5c78b9c2e63900dcdbe4/res/values-vi/values-vi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,219,327,436,520,623,742,819,896,980,1084,1193,1294,1399,1513,1618,1775,1874",
-                        "endColumns": "113,107,108,83,102,118,76,76,83,103,108,100,104,113,104,156,98,83",
-                        "endOffsets": "214,322,431,515,618,737,814,891,975,1079,1188,1289,1394,1508,1613,1770,1869,1953"
-                    }
-                },
-                {
-                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/31b79d993eca6964192c6ecf311060df/res/values-vi/values-vi.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1958",
-                        "endColumns": "100",
-                        "endOffsets": "2054"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat",
             "map": [
                 {
@@ -706,6 +689,38 @@
                         "startOffsets": "105,221,323,431,517,626,745,823,900,982,1091,1200,1299,1408,1519,1627,1790,1886",
                         "endColumns": "115,101,107,85,108,118,77,76,81,108,108,98,108,110,107,162,95,81",
                         "endOffsets": "216,318,426,512,621,740,818,895,977,1086,1195,1294,1403,1514,1622,1785,1881,1963"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/93a975f6579b5c78b9c2e63900dcdbe4/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,219,327,436,520,623,742,819,896,980,1084,1193,1294,1399,1513,1618,1775,1874",
+                        "endColumns": "113,107,108,83,102,118,76,76,83,103,108,100,104,113,104,156,98,83",
+                        "endOffsets": "214,322,431,515,618,737,814,891,975,1079,1188,1289,1394,1508,1613,1770,1869,1953"
+                    }
+                },
+                {
+                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/31b79d993eca6964192c6ecf311060df/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1958",
+                        "endColumns": "100",
+                        "endOffsets": "2054"
                     }
                 }
             ]
@@ -2821,6 +2836,21 @@
                         "startOffsets": "105,216,331,442,524,630,760,843,923,1009,1119,1231,1334,1445,1552,1659,1818,1917",
                         "endColumns": "110,114,110,81,105,129,82,79,85,109,111,102,110,106,106,158,98,85",
                         "endOffsets": "211,326,437,519,625,755,838,918,1004,1114,1226,1329,1440,1547,1654,1813,1912,1998"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/debug/values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7847538fe361d97b20e7951747467930/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     }
                 }
             ]

@@ -219,38 +219,6 @@
             ]
         },
         {
-            "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/androidTest/debug/values-sw_values-sw.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/31b79d993eca6964192c6ecf311060df/res/values-sw/values-sw.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1944",
-                        "endColumns": "100",
-                        "endOffsets": "2040"
-                    }
-                },
-                {
-                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/93a975f6579b5c78b9c2e63900dcdbe4/res/values-sw/values-sw.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,306,414,504,609,726,808,891,973,1074,1183,1282,1389,1498,1603,1765,1862",
-                        "endColumns": "102,97,107,89,104,116,81,82,81,100,108,98,106,108,104,161,96,81",
-                        "endOffsets": "203,301,409,499,604,721,803,886,968,1069,1178,1277,1384,1493,1598,1760,1857,1939"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/androidTest/debug/values-ca_values-ca.arsc.flat",
             "map": [
                 {
@@ -278,6 +246,38 @@
                         "startOffsets": "1981",
                         "endColumns": "100",
                         "endOffsets": "2077"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/androidTest/debug/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/31b79d993eca6964192c6ecf311060df/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1944",
+                        "endColumns": "100",
+                        "endOffsets": "2040"
+                    }
+                },
+                {
+                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/93a975f6579b5c78b9c2e63900dcdbe4/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,306,414,504,609,726,808,891,973,1074,1183,1282,1389,1498,1603,1765,1862",
+                        "endColumns": "102,97,107,89,104,116,81,82,81,100,108,98,106,108,104,161,96,81",
+                        "endOffsets": "203,301,409,499,604,721,803,886,968,1069,1178,1277,1384,1493,1598,1760,1857,1939"
                     }
                 }
             ]
@@ -858,38 +858,6 @@
             ]
         },
         {
-            "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/androidTest/debug/values-en-rIN_values-en-rIN.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/93a975f6579b5c78b9c2e63900dcdbe4/res/values-en-rIN/values-en-rIN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
-                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
-                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
-                    }
-                },
-                {
-                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/31b79d993eca6964192c6ecf311060df/res/values-en-rIN/values-en-rIN.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1907",
-                        "endColumns": "100",
-                        "endOffsets": "2003"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/androidTest/debug/values-km_values-km.arsc.flat",
             "map": [
                 {
@@ -922,6 +890,53 @@
             ]
         },
         {
+            "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/androidTest/debug/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/93a975f6579b5c78b9c2e63900dcdbe4/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,309,417,501,601,716,793,869,951,1054,1158,1257,1362,1465,1569,1725,1825",
+                        "endColumns": "103,99,107,83,99,114,76,75,81,102,103,98,104,102,103,155,99,81",
+                        "endOffsets": "204,304,412,496,596,711,788,864,946,1049,1153,1252,1357,1460,1564,1720,1820,1902"
+                    }
+                },
+                {
+                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/31b79d993eca6964192c6ecf311060df/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1907",
+                        "endColumns": "100",
+                        "endOffsets": "2003"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/androidTest/debug/values-v24_values-v24.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/93a975f6579b5c78b9c2e63900dcdbe4/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/androidTest/debug/values-de_values-de.arsc.flat",
             "map": [
                 {
@@ -949,21 +964,6 @@
                         "startOffsets": "105,210,308,420,506,611,726,803,879,961,1072,1175,1274,1385,1487,1594,1750,1852",
                         "endColumns": "104,97,111,85,104,114,76,75,81,110,102,98,110,101,106,155,101,81",
                         "endOffsets": "205,303,415,501,606,721,798,874,956,1067,1170,1269,1380,1482,1589,1745,1847,1929"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/res/merged/androidTest/debug/values-v24_values-v24.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/elfar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/93a975f6579b5c78b9c2e63900dcdbe4/res/values-v24/values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
                     }
                 }
             ]

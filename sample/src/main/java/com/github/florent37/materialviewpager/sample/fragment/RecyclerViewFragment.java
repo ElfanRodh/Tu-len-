@@ -37,7 +37,9 @@ public class RecyclerViewFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_recyclerview, container, false);
+        View root = inflater.inflate(R.layout.fragment_recyclerview, container, false);
+
+        return root;
     }
 
     @Override
@@ -52,7 +54,6 @@ public class RecyclerViewFragment extends Fragment {
         }
 
         //setup materialviewpager
-
         if (GRID_LAYOUT) {
             mRecyclerView.setLayoutManager(new GridLayoutManager(getActivity(), 2));
         } else {

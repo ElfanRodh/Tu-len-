@@ -15,6 +15,7 @@ import android.widget.Toast;
 import com.crashlytics.android.Crashlytics;
 import com.github.florent37.materialviewpager.MaterialViewPager;
 import com.github.florent37.materialviewpager.header.HeaderDesign;
+import com.github.florent37.materialviewpager.sample.fragment.BerandaFragment;
 import com.github.florent37.materialviewpager.sample.fragment.RecyclerViewFragment;
 import com.github.florent37.materialviewpager.sample.fragment.ScrollFragment;
 
@@ -45,7 +46,7 @@ public class MainActivity extends DrawerActivity {
             public Fragment getItem(int position) {
                 switch (position % 4) {
                     case 0:
-                        return RecyclerViewFragment.newInstance();
+                        return BerandaFragment.newInstance();
                     //case 1:
                     //    return RecyclerViewFragment.newInstance();
 //                    case 2:

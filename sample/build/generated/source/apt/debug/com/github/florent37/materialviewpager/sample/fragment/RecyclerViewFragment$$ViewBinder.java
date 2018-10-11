@@ -21,7 +21,7 @@ public class RecyclerViewFragment$$ViewBinder<T extends RecyclerViewFragment> im
     protected InnerUnbinder(T target, Finder finder, Object source) {
       this.target = target;
 
-      target.mRecyclerView = finder.findRequiredViewAsType(source, 2131165285, "field 'mRecyclerView'", RecyclerView.class);
+      target.mRecyclerView = finder.findRequiredViewAsType(source, 2131165286, "field 'mRecyclerView'", RecyclerView.class);
     }
 
     @Override
