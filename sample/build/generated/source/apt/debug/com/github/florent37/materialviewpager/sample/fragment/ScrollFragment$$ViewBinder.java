@@ -2,7 +2,6 @@
 package com.github.florent37.materialviewpager.sample.fragment;
 
 import android.support.v4.widget.NestedScrollView;
-import android.support.v7.widget.RecyclerView;
 import butterknife.Unbinder;
 import butterknife.internal.Finder;
 import butterknife.internal.ViewBinder;
@@ -23,7 +22,6 @@ public class ScrollFragment$$ViewBinder<T extends ScrollFragment> implements Vie
       this.target = target;
 
       target.mScrollView = finder.findRequiredViewAsType(source, 2131165294, "field 'mScrollView'", NestedScrollView.class);
-      target.mRecyclerView = finder.findRequiredViewAsType(source, 2131165290, "field 'mRecyclerView'", RecyclerView.class);
     }
 
     @Override
@@ -32,7 +30,6 @@ public class ScrollFragment$$ViewBinder<T extends ScrollFragment> implements Vie
       if (target == null) throw new IllegalStateException("Bindings already cleared.");
 
       target.mScrollView = null;
-      target.mRecyclerView = null;
 
       this.target = null;
     }

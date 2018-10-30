@@ -33,13 +33,13 @@ public class BerandaFragment extends Fragment {
     @BindView(R.id.rv_bangunan)
     RecyclerView mRecyclerView;
 
-    public static ScrollFragment newInstance() {
-        return new ScrollFragment();
+    public static BerandaFragment newInstance() {
+        return new BerandaFragment();
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_scroll, container, false);
+        return inflater.inflate(R.layout.fragment_beranda, container, false);
     }
 
     @Override
@@ -50,8 +50,8 @@ public class BerandaFragment extends Fragment {
         MaterialViewPagerHelper.registerScrollView(getActivity(), mScrollView);
         final List<Object> items = new ArrayList<>();
 
-        items.add("1");
-        items.add("2");
+        items.add("1hffdtdtfyt");
+        items.add("2jgvhf");
         items.add("3");
         items.add("4");
 

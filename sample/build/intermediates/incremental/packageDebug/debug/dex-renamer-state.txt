@@ -1,4 +1,4 @@
-#Thu Oct 11 17:48:25 WIB 2018
+#Wed Oct 24 20:30:46 WIB 2018
 base.0=/home/elfar/APK/Awesome/MaterialViewPager/sample/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
